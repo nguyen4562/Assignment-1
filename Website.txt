@@ -1,0 +1,138 @@
+<html>
+<head>
+<title>Assignment 1</title>
+<style>
+
+
+h2 {text-align: center;}
+a { color: blue; }
+
+	body{
+  	border: 2px solid black;
+  	padding: 25px;
+  	background: url("background1.jpg");
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	background-attachment: fixed;
+	}
+
+	.float-right{
+	float: right;
+	margin-right: 20px;
+	border: solid black 1px;
+	padding: 2px;
+	}
+
+	.float-left{
+	float: left;
+	margin-right: 20px;
+	border: solid black 1px;
+	padding: 2px;
+	}
+
+	b.size{
+	font-size: large;
+	}
+
+	.center{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+	}
+
+</style>
+</head>
+<body>
+
+
+<h2 style="color:red"> Personal Information </h2>
+   <img src="Myself.jpg" alt="Myself" width="500" height="333" class="float-left">
+	<p style ="line-height: 180%">Name: 	&emsp;&emsp;&emsp;&emsp;&emsp; Phạm Gia Nguyễn <br>
+	Student number:	&emsp; s3819521 <br>
+	Email Address:  &emsp;&ensp; s3819521@rmit.edu.vn <br>
+	Nationality:    &emsp;&emsp;&emsp; Việt Nam <br>
+	Education to date:&emsp;University (2020 on-going) <br>
+	About Myself: &emsp;&emsp;
+At an early age, football is one of my most favourite hobbies. I have joined many competitions and tournaments in school, finally, I end up with the championship in high school with a winning penalty shootout result. Gradually, I found that coding arouses my interest in solving problems, particularly in programming problems. It's pretty hard at the beginning, using different algorithms to have a better answer. However, after doing and practising enough, mostly in Leetcode website, I find it very enjoyable.</p>
+<br><br>
+<h2 style="color:red">Interest in IT</h2>
+   <ul style = "line-height: 180%">
+		<li>As information technology is growing fast, there are so many fields I can get enrolled. Honestly, my most interest in IT is working with the system, specific in data structures. The biggest motivation made me entered in this major was my big brother, a competitive programmer. He has solved many challenging database problems such as arrays, multidimensional arrays and matrix in an online contest every weekend. After witnessed some magical codes, then I started learning some programming languages such as Java and Python in high school in order to master as my brother.</li> <br>
+		<li>One reason I choose RMIT to start my career path is that it doesn't teach me irrelevant course, instead, I can learn my specialize faster compared to other schools. Another reason is the facility, RMIT provided the best facilities and services, at least to me, to expand their knowledge as well as their abilities. Finally, about individuals' schedule, it's very balanced with lectures and tutorials schedule where I can learn new things in lecture day and practice or apply it in tutorial labs.</li> <br>
+		<li>As I want to do jobs related to data structures, so it's essential to end up with practical solutions and not having so much of academic answers. It would be best without it otherwise, it's quite daunting.</li> <br>
+   </ul>
+
+<h2 style="color:red"> Ideal Job </h2>
+   <img src="Untitled.png" alt="Trulli" width="500" height="333" class="center">
+	<br>
+   <a href="https://itviec.com/it-jobs/sr-fullstack-dev-reactjs-javascript-shift-asia-vietnam-3908?utm_campaign=gsn_brand_hcm&utm_medium=key_cpc&utm_source=google&utm_term=itviec"><p style="text-align:center"><i>Here is the link</i></p></a>
+
+<ul>
+   <li><p style ="line-height: 180%">As a senior full-stack developer, knowing both front-end and back-end technologies is a must. It's interesting to say that a full stack developer can build a whole website on their own from the surface to the system. They not only have a good background but also can adapt to new technologies. Therefore, for this position, recruiters want to hire someone can implement new front-end technologies such as Progressive Web Apps (PWA) and Single Page App (SPA) and can also write maintainable code for supporting back-end API. </p></li>
+   <li><p style ="line-height: 180%">For the requirements, candidates must have at least 3 years working as a full-stack or a software developer. For the back-end, they must have strong knowledge in REST API and experience in API development with programming languages such as Java, Javascript (Nodejs), Ruby, PHP, Python and Scala (not all). For the database, candidates must experience with NoSQL database and Relational database to store, retrieve and transmit data. Relating to front-end,  Javascript and Typescript is a must, along with frameworks such as Vue and Angular, a library such as React. For the rest, knowing Agile and Scrum methodology and familiar with Cloud platform such as AWS (EC2, S3, ECR, RDS) is necessary.</p></li>
+   <li><p style ="line-height: 180%">For programming languages, Java and Python <br>
+	Knowing little MySQL database (Basic ) <br>
+	Knowing little HTML, CSS, Javascript (Basic ) <br>
+	Knowing Git (Basic)</p></li>
+   <li><p style ="line-height: 180%">Taking an internship during study is very important to obtain the necessary skills as well as experience before getting into real jobs. First, I need to apply things I have learnt into practical problems by working with a company to gain experience. However, technologies are rapidly changing to pleasure human's desires, so learning new things is a must. After have 2 years of experience, updating myself to new technologies, which is necessary for my technical skills, by entering either online courses or offline training. But I think I will join online courses due to the fact that it reduces the time I have to go from my home to the class, schedule for learning is much more flexible, I can drop one or two days whenever I feel tired. After that, maybe when I was in 28 or 29 years old, I would begin to master in a Big Data, it's not basically learning new things, it's about to learn deeply by getting a Master's degree in this role.</p></li><br>
+</ul>
+
+<h2 style="color:red"> Personal Profile </h2>
+
+   <b class="size">MBTI Test</b>
+   <img src="MBTI-test.png" alt="Trulli" width="500" height="333" class="float-right">
+
+<ul>
+   <li><p style ="line-height: 180%"> The test shows that I'm introvert, observant and likely to prioritizing logic over emotions. Well, there are many reasons why I prefer making decisions by logical rather than based on heart. Well, the main reason for this mostly because I rarely like to have mistakes if I can avoiding it by using practical data or experience rather than wishing luck to solve problems. A most practical example would be algorithms, I have solved many coding problems either in Leetcode or in some contests for coding to improve my analytical skills. Solving problems involve logical makes me feel exciting since giving a better solution from previous ones can make me gain more knowledge.</p></li>
+   <li><p style ="line-height: 180%"> I prefer working with highly structural schedules, plans than spontaneous. Mainly it would be hard to control different outcomes made by feelings. It's not very reasonable and ideal when working in a professional environment like in big company or having an important project.</p></li>
+   <li><p style ="line-height: 180%"> Last but not least, although the statistic shows I'm an introvert person, I don't want to form a close relationship with anyone I met. Honestly, I choose quality over quantity.</p></li> <br><br>
+</ul>
+
+<b class="size"> Learning style test </b>
+   <img src = "Learning-style-testpng.png" alt="Learning-style-test" width="500" height="333" class="float-left">
+   
+<ul>
+   <li style="line-height: 180%"><p>As the above result, I tend to be more tactile. I'm likely to write down anything that I experience or learning either by senses or by practices to make sure I will remember that one. Well, it's a bit of hard for me to study by hearing the process, partly because I prefer learning on my own by searching and examining sources from the internet. As a result, I spend more time to study on my own to explain and think different aspects of the problems. Nearly all of my high accuracy solutions are coming from the imaginary and write the hard part planned in mind down, but if it already has graphics or pictures to demonstrate the questions, it's more straightforward for me to do.</p></li><br><br><br><br><br><br><br>
+</ul>
+
+
+<b class="size"> Psychometric test </b>
+   <img src = "Critical-Thinking-Test.png" alt="Critical-Thinking-Test" width="500" height="333" class="float-right">
+<ul>
+   <li style="line-height: 180%"><p>Relating to critical thinking test, the result shows that my score is higher than 64% of the previous scores and with the accuracy of 71% within a group. The reason I got this score because I was trained by learning and practising with different types of problems I faced and experienced in life.  Problems I faced also come from other experience that they have been through in their life. It means that I can make a suspicious whether a solution is right or not, which is very important for the outcome of the projects I enrolled. Well, whenever I get solutions from an issue, it is better with discussing and evaluating other results and comes up with a better solution. This strength will help me form a great ability to solve problems and enable me to learn new things logically.</p></li><br><br>
+</ul>
+
+<b class="size">How do you think these results may influence your behaviour in a team?</b>
+<p>In order to know how these results can affect my behaviour in a team or not, you need to know my strength as well as my weaknesses.</p><br>
+<b class="size">Strengths</b>
+
+<ul>
+   <li style="line-height: 180%"><p>Initially, my strength is that I can play different roles in a team related to structural forms such as building a team vision or making high structural plans for further development. I do care a lot about details because I don't want to lose any point for a small thing, It could be very wasteful and it doesn't deserve to have that mistake. Being a tactile learner, I preferably write down anything that I consider necessary for the project, which means that everyone can follow the structures and the leader can track down team members and improve the team effectiveness better. </p></li><br>
+</ul>
+
+<b class="size">Weaknesses</b>
+<ul>
+   <li style="line-height: 180%"><p>But as a matter of fact, I have a high expectation of the results without taking a long time. It means that I want to work effectively and each team members need to do the same thing, it's better for the common outcomes. The process of a project no need to be many, I mean no complex or doing unnecessary things as we need to plan in details. Somehow it's quite strictly right? This situation is hard to deal with a small project and even some team members satisfied with what they are doing, although the section they work with can be improved obviously. That might lead to conflict or disagreement in a team.</p></li><br>
+</ul>
+
+<b class="size">How should you take this into account when forming a team?</b>
+<ul>
+   <li style="line-height: 180%"><p>Since being introvert and observant, somehow these traits could be my weakness, my team members could feel a bit annoyed as I quite strictly about the result. It doesn't much matter even the result is not what we expected, but the process needs to be inline so that we could improve the result later. Therefore, I prefer to work with people who are logical thinking group, less talkative and responsibility because these traits can give what we are expecting. I know I have high expectation for the result and often start the assignment sooner than others, so in order to prevent conflict happen, I will be looking for someone who has the same target with me and also placed high priority for their study. It's definitely alright if someone tells the truth things even though it can hurt someone, as a matter of fact, the truth will help you have a better view as a whole.</p></li><br>
+</ul>
+
+
+<h2 style="color:red"> Project Idea </h2>
+<ul>
+   <li style="line-height: 180%"><p>It is very interesting to develop a website to let the users create a website on it. My idea is that I want other people to learn to build a website easily and keep their motivation to it. This project idea will help me develop the skills, experience, and knowledge required to make me qualified for my ideal job. The reason is that this project will include nearly every essential skills and even further for my qualification, from building front-end parts to the back-end system and how to communicate between them. I am going to explain my project in more detail below.</p></li><br>
+   <li style="line-height: 180%"><p>My project idea is going to build a website where people can able to create their website inside of a website, which does not require any programming skills. Generally, this website will use JavaScript as the main programming languages for back-end infrastructure as well as for front-end development. Fundamentally, users will use interactive features with drop and drag components to create a website, which is very convenient. This website will provide different types of web services, ranging from shopping online to social media to help everyone enjoy themselves while creating their websites. There are two versions for developers, first is for individual learning or projects, other is for senior developers and enterprise.</p></li><br>
+   <li style="line-height: 180%"><p>There are about 2 billion websites, but less than 400 million are active with thousands of websites will be created per day [1]. As a result, it is absolutely to say that websites will continue to grow more in the future, from web 1.0 to web 3.0, and web 4.0 will appear with the help of AI and blockchain. Well, the reason for this project idea is that there are so many technologies and frameworks for developers to use, especially beginners may find it very difficult to obtain all of the knowledge. Therefore, it would be helpful for the newbie to learn new things without loose interest and keep motivating them on how their ideal website is going to look like in a short time. For a start-up company, they can save money for developing their first website and reduce the time for getting the result.</p></li><br>
+   <li style="line-height: 180%"><p>In detail, this website will provide developers with nearly every essential functions as well as the convenient of it. For the front-end parts, users can create their products through the many free templates provided by the website or they can choose to design everything from scratch. If the users decide to design their website based on the templates, they can save time and build the system faster. Different categories will provide users with various experience while doing their jobs. Most of the templates are going to use JavaScript, HTML, CSS for the users and if they want to use technologies such as Reactjs and Vuejs, they need to access to the premium version for senior developers and enterprise in order to implement advance technology. The reason is when creating a website with advance technologies with drop-and-drag features, it is very complex to build a whole system, note that this is just the front-end one. For the back-end system, it is much more complicated than the front-end one because this website has to create the system for the users to run the website including the database, managing, and monitoring a back-end infrastructure. For example, if you are going to design a website for shopping online, you need to take the users' account and shopping products and store those data to retrieve and transmit to the users or between the system behind. Well, I would develop two types of back-end product for the customers. First, the back-end system will be controlled by the website, which means that developers only need to design and create their products, and the system will manage the data flow for them. For the second choice, users will control their back-end systems either they build everything from scratch or automatically be built by the system. The reason is when the system is bigger and complicated users need to control by themselves otherwise, there will be a lot of bugs. Nodejs will be used in the server-side because Nodejs uses JavaScript, which is the same in the client-side. Therefore, developers only need to know about JavaScript for creating their products without worrying about the conflict between technologies.</p></li><br>
+   <li style="line-height: 180%"><p>In order to create that website, I need software with IDE (Integrated Developer Environment) to develop and maintain my website as well as provide services for the customers. For the client-side, I consider using Dreamweaver to develop the front-end to create drag-and-drop features and push it to the server-side. For the back-end system, Nodejs will be the best choice since Nodejs is already using Javascript, which can help me reduce the complexity of the system, noted that other programming languages could be useful such as Java and PHP. If I am going to use Java, then IntelliJ IDEA is my choice because it makes developers easier to use and more natural compared to Eclipse. However, when the system is becoming larger, Eclipse is much better.</p></li><br>
+   <li style="line-height: 180%"><p>For the skills used in the website, I must use JavaScript, HTML, CSS for the front-end and consider Nodejs for the server-side to provide the convenience for the developers to reduce the time for finishing their projects. Relating to the database, knowing DBMS technology such as MySQL, MongoDB, Oracle and SQLServer is a must and with caching such as Varnish, Memcached, Redis. Another skill of Apache or Nginx servers are very important with the Linux background to control the servers. The knowledge of Git can help me keep tracking all the changes since the back-end is very crucial and knowing web services or API is also crucial. Well, to obtain those skills require a lot of time and effort, but I will learn everything essential to finish my ideal projects one day.</p></li><br>
+   <li style="line-height: 180%"><p>If my project is successful, developers can have a huge benefit from creating and developing their own website in a short time. Noted that the easiest part of creating a website still consume a lot of time, free templates with drop-and-drag will help users reduce unnecessary parts of their projects and let them take focus on the system. Beginners find it easier to learn new things, start-up companies can develop their product more quickly and senior developers can create and test their projects alone.</p></li><br>
+</ul>
+<p>Reference <br> [1] "How many websites are there? How many are active in 2020" hostingtribunal.com. https://hostingtribunal.com/blog/how-many-websites/#gref (accessed July 20, 2020).</p>
+
+</body>
+</html>
